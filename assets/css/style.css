@@ -11,7 +11,6 @@ p.start-container{
     width: 250px;
     text-align: center;
     padding: 200px 0 0 0;
-    
     color:wheat;
 }
 .start-button{
@@ -58,7 +57,7 @@ p{
 }
 
 .jumbotron {
-     height: 200px; 
+     height: 190px; 
     color:wheat;
     background-color: rgba(248, 243, 85, 0);
     opacity: .7;
